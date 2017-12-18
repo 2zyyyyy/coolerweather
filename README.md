@@ -1,2 +1,2 @@
 # coolerweather
-这是coolweather的第二版。
+查询全国各地天气     版本号 2.0
